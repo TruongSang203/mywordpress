@@ -11,43 +11,11 @@
 	<atom:link href="https://truongsang203.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truongsang203.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 30 Aug 2022 06:05:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Sep 2022 09:41:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-	<item>
-		<title>
-		Phản hồi cho Top 6 câu lạc bộ có thể vô địch premier language bởi truongsang		</title>
-		<link>https://truongsang203.github.io/mywordpress/top-6-cau-lac-bo-co-the-vo-dich-premier-language/#comment-2</link>
-
-		<dc:creator><![CDATA[truongsang]]></dc:creator>
-		<pubDate>Tue, 23 Aug 2022 09:00:50 +0000</pubDate>
-		<guid isPermaLink="false">https://truongsang203.github.io/mywordpress/?p=6#comment-2</guid>
-
-					<description><![CDATA[HAY QUÁ MU vô đich nhá !!!]]></description>
-			<content:encoded><![CDATA[<p>HAY QUÁ MU vô đich nhá !!!</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
-		<link>https://truongsang203.github.io/mywordpress/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Tue, 16 Aug 2022 07:41:25 +0000</pubDate>
-		<guid isPermaLink="false">https://truongsang203.github.io/mywordpress/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
