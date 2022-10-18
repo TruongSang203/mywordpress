@@ -11,8 +11,8 @@
 	>
 
 <channel>
-	<title>TruongSang &#8211; My WordPress</title>
-	<atom:link href="http://localhost/myproject/wordpress/author/truongsang/feed/" rel="self" type="application/rss+xml" />
+	<title>Chưa phân loại &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truongsang203.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 Oct 2022 06:31:49 +0000</lastBuildDate>

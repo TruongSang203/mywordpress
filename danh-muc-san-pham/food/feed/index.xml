@@ -11,178 +11,32 @@
 	>
 
 <channel>
-	<title>&gt; Food &#8211; My WordPress</title>
+	<title>Food &#8211; My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/food/feed/" rel="self" type="application/rss+xml" />
-	<link>http://truongsang203.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Oct 2022 16:30:51 +0000</lastBuildDate>
+	<link>https://truongsang203.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 18 Oct 2022 07:47:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Fresh Beef Meat</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/fresh-beef-meat/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/fresh-beef-meat/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 16:30:14 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=230</guid>
-
-					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
-										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/04/h3-product6.png" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/fresh-beef-meat/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Barenaked Noodles</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/barenaked-noodles/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/barenaked-noodles/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 16:04:34 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=190</guid>
-
-					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
-										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/product14.jpg" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/barenaked-noodles/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Pasta Shells</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/pasta-shells/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/pasta-shells/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 15:51:27 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=171</guid>
-
-					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
-										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humo</p>
-<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/product13.jpg" /></p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/pasta-shells/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chicken Thighs</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/chicken-thighs/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/chicken-thighs/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 15:41:56 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=153</guid>
-
-					<description><![CDATA[<div class="woocommerce-sg-product-excerpt">
-<div class="woocommerce-product-details__short-description">
-
-Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.
-
-</div>
-</div>]]></description>
-										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/product12.jpg" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/chicken-thighs/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fresh Sea Fish</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/fresh-sea-fish/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/fresh-sea-fish/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 15:38:49 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=151</guid>
-
-					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious]]></description>
-										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/h3-product111.png" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/fresh-sea-fish/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>French Beef</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/french-beef/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/french-beef/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 15:32:49 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=145</guid>
-
-					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-tabs wc-tabs-wrapper">
-<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
-<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-</div>
-</div>
-<section class="related products">
-<h2><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/product11.jpg" /></h2>
-</section>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/french-beef/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Brown Bread</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/brown-bread/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/brown-bread/#respond</comments>
-		
-		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 09:32:23 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=89</guid>
-
-					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
-										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
-<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/product4.jpg" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/brown-bread/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Organic Juice</title>
-		<link>http://truongsang203.github.io/mywordpress/san-pham/organic-juice/</link>
-					<comments>http://truongsang203.github.io/mywordpress/san-pham/organic-juice/#respond</comments>
+		<link>https://truongsang203.github.io/mywordpress/san-pham/organic-juice/</link>
+					<comments>https://truongsang203.github.io/mywordpress/san-pham/organic-juice/#respond</comments>
 		
 		<dc:creator><![CDATA[TruongSang]]></dc:creator>
-		<pubDate>Tue, 11 Oct 2022 08:39:06 +0000</pubDate>
-				<guid isPermaLink="false">http://truongsang203.github.io/mywordpress/?post_type=product&#038;p=35</guid>
+		<pubDate>Tue, 18 Oct 2022 07:29:10 +0000</pubDate>
+				<guid isPermaLink="false">https://truongsang203.github.io/mywordpress/?post_type=product&#038;p=27</guid>
 
 					<description><![CDATA[Sumptuous, filling, and temptingly healthy. Our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
 										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
 <p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/03/product1.jpg" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://truongsang203.github.io/mywordpress/san-pham/organic-juice/feed/</wfw:commentRss>
+					<wfw:commentRss>https://truongsang203.github.io/mywordpress/san-pham/organic-juice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

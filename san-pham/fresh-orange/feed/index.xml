@@ -12,13 +12,13 @@
 	<title>
 	Các phản hồi luận về: Fresh Orange	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/fresh-orange/feed/" rel="self" type="application/rss+xml" />
-	<link>http://truongsang203.github.io/mywordpress/san-pham/fresh-orange/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Oct 2022 09:09:01 +0000</lastBuildDate>
+	<link>https://truongsang203.github.io/mywordpress/san-pham/fresh-orange/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 18 Oct 2022 08:49:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
