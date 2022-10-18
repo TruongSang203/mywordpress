@@ -12,13 +12,13 @@
 	<title>
 	Các phản hồi luận về: Oat Cake	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/oat-cake/feed/" rel="self" type="application/rss+xml" />
-	<link>http://truongsang203.github.io/mywordpress/san-pham/oat-cake/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 11 Oct 2022 15:27:31 +0000</lastBuildDate>
+	<link>https://truongsang203.github.io/mywordpress/san-pham/oat-cake/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 18 Oct 2022 15:17:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
