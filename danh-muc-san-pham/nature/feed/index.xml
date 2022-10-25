@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/nature/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truongsang203.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 18 Oct 2022 16:15:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 03:14:34 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,25 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Red Onion</title>
+		<link>https://truongsang203.github.io/mywordpress/san-pham/red-onion/</link>
+					<comments>https://truongsang203.github.io/mywordpress/san-pham/red-onion/#respond</comments>
+		
+		<dc:creator><![CDATA[TruongSang]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 03:14:34 +0000</pubDate>
+				<guid isPermaLink="false">https://truongsang203.github.io/mywordpress/?post_type=product&#038;p=289</guid>
+
+					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
+										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
+<p><img src="https://demo.casethemes.net/organio/wp-content/uploads/2021/04/h3-product3.png" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://truongsang203.github.io/mywordpress/san-pham/red-onion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Organic Peas</title>
 		<link>https://truongsang203.github.io/mywordpress/san-pham/organic-peas/</link>
 					<comments>https://truongsang203.github.io/mywordpress/san-pham/organic-peas/#respond</comments>
